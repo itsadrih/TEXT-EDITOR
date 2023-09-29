@@ -43,9 +43,9 @@ GitHub: https://github.com/itsadrih
 Email: aherreraa08@gmail.com
 
 ## Links 
-REPO - https://github.com/itsadrih/TECH-BLOG
+REPO - https://github.com/itsadrih/TECH-EDITOR
 
 ## Notes
-THIS PROJECT IS UNFORTUNATELY UNFINISHED/ INCOMPLETE. PLANS OF COMPLETING SOON.
+THIS PROJECT IS UNFORTUNATELY UNFINISHED/ INCOMPLETE. PLANS OF COMPLETING SOON. -IN PROGRESS-
 
 
